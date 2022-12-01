@@ -1,3 +1,6 @@
+//NOTE: Command depreciated due to Pokecord having anti-bot measures.
+//Not deleting, but will not implement.
+
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const delay = async (ms = 1000) =>
   new Promise(resolve => setTimeout(resolve, ms))
